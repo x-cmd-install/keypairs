@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1961920,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2020-11-25T10:12:18Z",
       "updated_at": "2020-11-25T10:12:20Z",
       "browser_download_url": "https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_freebsd_armv6.tar.gz"
