@@ -4,7 +4,7 @@
 
 A light application of proper typing, JWK support, and usability over Go's excellent native RSA and ECDSA packages.
 
-![keypairs](https://repo.x-cmd.io/keypairs.svg)
+![keypairs](https://repo.x-cmd.io/keypairs.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,20 @@ x install keypairs
 - **最新版本**: `v0.7.0-pre.2` (2020-11-25)
 - **最近提交**: 2020-11-25
 - **Release 含资产**: 9 个
-- **发布时间**: 2020-11-25T10:12:18Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/checksums.txt) | 862 B | `other` |
+| [keypairs_0.7.0-pre.2_darwin_x86-64.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_darwin_x86-64.tar.gz) | 2.1 MiB | `native/darwin/x64` |
+| [keypairs_0.7.0-pre.2_freebsd_aarch64.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_freebsd_aarch64.tar.gz) | 1.8 MiB | `native/linux/arm64` |
+| [keypairs_0.7.0-pre.2_freebsd_armv6.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_freebsd_armv6.tar.gz) | 1.9 MiB | `native/linux/arm` |
+| [keypairs_0.7.0-pre.2_freebsd_x86-64.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_freebsd_x86-64.tar.gz) | 2.0 MiB | `native/unknown` |
+| [keypairs_0.7.0-pre.2_linux_aarch64.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_linux_aarch64.tar.gz) | 1.8 MiB | `native/linux/arm64` |
+| [keypairs_0.7.0-pre.2_linux_armv6.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_linux_armv6.tar.gz) | 1.9 MiB | `native/linux/arm` |
+| [keypairs_0.7.0-pre.2_linux_x86-64.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_linux_x86-64.tar.gz) | 2.0 MiB | `native/unknown` |
+| [keypairs_0.7.0-pre.2_windows_x86-64.zip](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_windows_x86-64.zip) | 2.0 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -60,4 +73,4 @@ keypairs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:10:41Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:06:47Z._

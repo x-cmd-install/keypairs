@@ -22,7 +22,20 @@ x install keypairs
 - **Latest**: `v0.7.0-pre.2` (2020-11-25)
 - **Last commit**: 2020-11-25
 - **Assets in release**: 9
-- **Published**: 2020-11-25T10:12:18Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/checksums.txt) | 862 B | `other` |
+| [keypairs_0.7.0-pre.2_darwin_x86-64.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_darwin_x86-64.tar.gz) | 2.1 MiB | `native/darwin/x64` |
+| [keypairs_0.7.0-pre.2_freebsd_aarch64.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_freebsd_aarch64.tar.gz) | 1.8 MiB | `native/linux/arm64` |
+| [keypairs_0.7.0-pre.2_freebsd_armv6.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_freebsd_armv6.tar.gz) | 1.9 MiB | `native/linux/arm` |
+| [keypairs_0.7.0-pre.2_freebsd_x86-64.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_freebsd_x86-64.tar.gz) | 2.0 MiB | `native/unknown` |
+| [keypairs_0.7.0-pre.2_linux_aarch64.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_linux_aarch64.tar.gz) | 1.8 MiB | `native/linux/arm64` |
+| [keypairs_0.7.0-pre.2_linux_armv6.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_linux_armv6.tar.gz) | 1.9 MiB | `native/linux/arm` |
+| [keypairs_0.7.0-pre.2_linux_x86-64.tar.gz](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_linux_x86-64.tar.gz) | 2.0 MiB | `native/unknown` |
+| [keypairs_0.7.0-pre.2_windows_x86-64.zip](https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_windows_x86-64.zip) | 2.0 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -56,8 +69,8 @@ Total: **2,599** lines of code across **25** files in the top 5 languages.
 Install metadata for keypairs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `keypairs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/keypairs.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/keypairs.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:10:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:06:47Z._
