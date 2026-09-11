@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2171093,
       "digest": null,
-      "download_count": 57,
+      "download_count": 59,
       "created_at": "2020-11-25T10:12:20Z",
       "updated_at": "2020-11-25T10:12:22Z",
       "browser_download_url": "https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_darwin_x86-64.tar.gz"
