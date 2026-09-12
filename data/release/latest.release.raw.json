@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2087441,
       "digest": null,
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2020-11-25T10:12:18Z",
       "updated_at": "2020-11-25T10:12:24Z",
       "browser_download_url": "https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_freebsd_x86-64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1898244,
       "digest": null,
-      "download_count": 84,
+      "download_count": 85,
       "created_at": "2020-11-25T10:12:20Z",
       "updated_at": "2020-11-25T10:12:22Z",
       "browser_download_url": "https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_linux_aarch64.tar.gz"
