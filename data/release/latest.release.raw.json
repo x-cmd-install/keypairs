@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2082267,
       "digest": null,
-      "download_count": 240,
+      "download_count": 241,
       "created_at": "2020-11-25T10:12:22Z",
       "updated_at": "2020-11-25T10:12:23Z",
       "browser_download_url": "https://github.com/therootcompany/keypairs/releases/download/v0.7.0-pre.2/keypairs_0.7.0-pre.2_linux_x86-64.tar.gz"
